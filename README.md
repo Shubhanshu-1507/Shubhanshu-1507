@@ -21,13 +21,13 @@
  
  ### SKILLS
  - Languages:
-   - Java,C++,Python,C#,PHP,Prolog,Bash,C,Racket,SQL
+   - Java,C++,Python,C#,PHP,C,SQL
   
  - WebDevelopment: 
    - React,JavaScript,TypeScript,HTML/CSS
  
  - Technology: 
-   - Git,AWS,GCP,Azure,Docker,Unity,Apache,LATEX,MongoDB,DynamoDB,Neo4
+   - Git,AWS,GCP,Azure,Docker,Unity,Apache,LATEX,MongoDB
 
  ### Support or Contact
 <div>
