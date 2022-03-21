@@ -4,22 +4,31 @@
 
 - 🔭 I’m currently pursuing B.Tech on Global Nature Care sangathan Group of Institution, Jabalpur( M.P, India)
 
-###  EDUCATION
+ ###  EDUCATION
  
 - #### GLOBAL NATURE CARE SANGATHAN GROUP OF INSTITUTIONS_______________________________~ Jabalpur,(M.P),IN | May 2023                                           
   - B.Tech |Affliated:(RGPV) – Accredited:(AICTE)     
       - ComputerScienceEngineering | CGPA:8.78
    
-- #### MOTHER TERESA HR. SEC SCHOOL_____________________________________________________________~ Dindori,(M.P),IN | April 2019
-
+-  #### MOTHER TERESA HR. SEC SCHOOL_____________________________________________________________~ Dindori,(M.P),IN | April 2019
    - State Board of Higher Secondary Education
-      - Science: Mathematics(PCM) | HSC(12th) Percentage: 79
+     - Science: Mathematics(PCM) | HSC(12th) Percentage: 79
    
-- #### KENDRIYA VIDYALAYA SANGATHAN_____________________________________________________________~ Dindori,(M.P),IN | April 2017
+-  #### KENDRIYA VIDYALAYA SANGATHAN_____________________________________________________________~ Dindori,(M.P),IN | April 2017
    
    - Cbse Board Of Senior Secondary Education
      - SSC(10th) | CGPA:9.20
  
+ ### SKILLS
+ - Languages:
+   - Java,C++,Python,C#,PHP,Prolog,Bash,C,Racket,SQL
+  
+ - WebDevelopment: 
+   - React,JavaScript,TypeScript,HTML/CSS
+ 
+ - Technology: 
+   - Git,AWS,GCP,Azure,Docker,Unity,Apache,LATEX,MongoDB,DynamoDB,Neo4
+
  ### Support or Contact
 <div>
 <a href="https://twitter.com/intent/follow?screen_name=shubhanshukus15"><img src="https://img.shields.io/badge/Shubhanshu--1507-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
