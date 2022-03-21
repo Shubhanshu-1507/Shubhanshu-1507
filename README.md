@@ -6,16 +6,16 @@
 
 ###  EDUCATION
  
-- #### GLOBAL NATURE CARE SANGATHAN GROUP OF INSTITUTIONS________________________________________~ Jabalpur,(M.P),IN | May 2023                                           
+- #### GLOBAL NATURE CARE SANGATHAN GROUP OF INSTITUTIONS_________________________________~ Jabalpur,(M.P),IN | May 2023                                           
   - B.Tech |Affliated:(RGPV) – Accredited:(AICTE)     
       - ComputerScienceEngineering | CGPA:8.78
    
-- #### MOTHER TERESA HR. SEC SCHOOL________________________________________________________________________~ Dindori,(M.P),IN | April 2019
+- #### MOTHER TERESA HR. SEC SCHOOL_______________________________________________________________~ Dindori,(M.P),IN | April 2019
 
    - State Board of Higher Secondary Education
       - Science: Mathematics(PCM) | HSC(12th) Percentage: 79
    
-- #### KENDRIYA VIDYALAYA SANGATHAN________________________________________________________________________~ Dindori,(M.P),IN | April 2017
+- #### KENDRIYA VIDYALAYA SANGATHAN_______________________________________________________________~ Dindori,(M.P),IN | April 2017
    
    - Cbse Board Of Senior Secondary Education
      - SSC(10th) | CGPA:9.20
