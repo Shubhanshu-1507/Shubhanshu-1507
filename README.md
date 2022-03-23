@@ -21,7 +21,7 @@
  
  ### SKILLS
  - Languages:
-   - Java,C++,Python,C#,PHP,C,SQL
+   - C,C++,Python,PHP,Java,SQL
   
  - WebDevelopment: 
    - React,JavaScript,TypeScript,HTML/CSS
