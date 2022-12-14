@@ -1,4 +1,5 @@
-## Hi there 👋
+<div> 
+ ## Hi there 👋
 
 # About Shubhanshu Kushwaha :~
 
@@ -28,7 +29,7 @@
  
  - Technology: 
    - Git,AWS,GCP,Azure,Docker,Unity,Apache,LATEX,MongoDB
-
+</div>
  ### Support or Contact
 <div>
 <a href="https://twitter.com/intent/follow?screen_name=shubhanshukus15"><img src="https://img.shields.io/badge/Shubhanshu--1507-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
