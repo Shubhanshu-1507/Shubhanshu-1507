@@ -5,6 +5,10 @@
 
 ## EDUCATION 
 
+### BADERIA GLOBAL INSTITUTE OF ENGINEERING AND MANAGEMENT __________________~ Jabalpur,(M.P),IN | May 2025                                           
+- M.Tech |Affliated:(RGPV) – Accredited:(AICTE)     
+- ComputerScienceEngineering | CGPA:7.13
+
 ### GLOBAL NATURE CARE SANGATHAN GROUP OF INSTITUTIONS__________________~ Jabalpur,(M.P),IN | May 2023                                           
 - B.Tech |Affliated:(RGPV) – Accredited:(AICTE)     
 - ComputerScienceEngineering | CGPA:8.64
@@ -20,7 +24,7 @@
 ## SKILLS
 
 ### Languages:
-  - C,
+  - C
   - C++
   - Python
   - Core Java
@@ -54,4 +58,4 @@
 <a href="https://www.facebook.com/shubhanshu.kushwaha.15/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://https://t.me/Shubhanshu15"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/shubhanshu15_/"><img src="https://img.shields.io/badge/Shubhanshu15__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-> Will UPdate This Readme Soon...
+
