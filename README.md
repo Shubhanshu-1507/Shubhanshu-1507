@@ -31,11 +31,11 @@
 > - ComputerScienceEngineering | CGPA:8.64
 
 ### MOTHER TERESA HR. SEC SCHOOL _~ Dindori,(M.P),IN | April 2019
-> - State Board of Higher Secondary Education
+> - 12th | State Board of Higher Secondary Education
 > - Science: Mathematics(PCM) | HSC(12th) Percentage: 79.00
 
 ### KENDRIYA VIDYALAYA SANGATHAN ~ Dindori,(M.P),IN | April 2017   
-> - CBSE Board Of Senior Secondary Education
+> - 10th | CBSE Board Of Senior Secondary Education
 > - SSC(10th) | CGPA:9.20
  
 ## SKILLS
