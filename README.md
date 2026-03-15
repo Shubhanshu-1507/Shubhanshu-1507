@@ -39,18 +39,23 @@
 > - React.js/Native
 > - JavaScript
 > - TypeScript
-> - HTML,CSS/SCSS
+> - HTML5,CSS3/SCSS
  
-### Technology: 
+### Technology/Tools/Platforms: 
 > - CI/CD
-> - Figma
+> - Figma & framer
 > - AWS, GCP
 > - Docker 
 > - Git/GitHub
->  - Heroku
->  - Netlify
->  - Vercel
-  
+> - Heroku
+> - Netlify
+> - Vercel
+> - LLM & API's
+> - Responsive Design
+> - Claude, copilot, chatgpt
+> - Cursor, emergent, antigravity, etc.
+> - AI Code platforms & development tools.
+
 ### Databases:
 > - MongoDB
 > - MySQl
